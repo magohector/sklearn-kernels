@@ -1,8 +1,8 @@
 from setuptools import setup
  
 setup(
-    name='sklearn-kernels',
-    packages=['sklearn-kernels'], # Mismo nombre que en la estructura de carpetas de arriba
+    name='sklearnkernels',
+    packages=['sklearnkernels'], # Mismo nombre que en la estructura de carpetas de arriba
     version='0.1',
     license='GPL', # La licencia que tenga tu paqeute
     description='A random test lib',
