@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     name='sklearnkernels',
     packages=['sklearnkernels'], 
-    version='0.1',
+    version='0.1.0',
     license='GPL', 
     description='A random test lib',
     author='Mora Hector',
