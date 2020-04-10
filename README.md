@@ -31,7 +31,6 @@ or clone the repo and just type the following on your shell:
     python setup.py install
 
 <h1>Usage examples</h1>
-<hr/>
 
 
 
