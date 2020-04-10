@@ -2,16 +2,16 @@ from setuptools import setup
  
 setup(
     name='sklearnkernels',
-    packages=['sklearnkernels'], # Mismo nombre que en la estructura de carpetas de arriba
+    packages=['sklearnkernels'], 
     version='0.1',
-    license='GPL', # La licencia que tenga tu paqeute
+    license='GPL', 
     description='A random test lib',
     author='Mora Hector',
     author_email='hector.mora@gmail.com',
-    url='https://github.com/magohector/sklearn-kernels/tree/master/sklearn-kernels', # Usa la URL del repositorio de GitHub
-    download_url='https://github.com/magohector/sklearn-kernels/archive/v0.1.tar.gz', # Te lo explico a continuación
-    keywords='ANN, SVM, Kernels', # Palabras que definan tu paquete
-    classifiers=['Programming Language :: Python',  # Clasificadores de compatibilidad con versiones de Python para tu paqeute
+    url='https://github.com/magohector/sklearn-kernels/tree/master/sklearn-kernels', 
+    download_url='https://github.com/magohector/sklearn-kernels/archive/v0.1.tar.gz', 
+    keywords='ANN, SVM, Kernels', 
+    classifiers=['Programming Language :: Python',  
                  'Programming Language :: Python :: 2.7',
                  'Programming Language :: Python :: 3.3',
                  'Programming Language :: Python :: 3.4',
