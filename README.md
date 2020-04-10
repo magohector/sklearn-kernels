@@ -1,5 +1,5 @@
 <h1>sklearn-kernels</h1>
-<hr/>
+
 <b>sklearn-kernels:</b> extend functionality SVM and ANN classification and regression implementation <br/>
 with alternative kernels proposed by Belanche.
 
@@ -19,7 +19,7 @@ member in brackets of  next list
 
 
 <h1>Install</h1>
-<hr/>
+
 
 To install the library use pip:
 
