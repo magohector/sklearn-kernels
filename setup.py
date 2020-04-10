@@ -9,7 +9,7 @@ setup(
     author='Mora Hector',
     author_email='hector.mora@gmail.com',
     url='https://github.com/magohector/sklearnkernels/tree/master/sklearnkernels', 
-    download_url='https://github.com/magohector/sklearnkernels/archive/V0.1.tar.gz', 
+    download_url='https://github.com/magohector/sklearnkernels/archive/V0.1.1.tar.gz', 
     keywords='ANN, SVM, Kernels', 
     classifiers=['Programming Language :: Python',  
                  'Programming Language :: Python :: 2.7',
