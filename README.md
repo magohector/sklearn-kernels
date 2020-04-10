@@ -1,4 +1,4 @@
-<h1>sklearn-kernels</h1>
+<h1>sklearnkernels</h1>
 
 <b>sklearn-kernels:</b> extend functionality SVM and ANN classification and regression implementation <br/>
 with alternative kernels proposed by Belanche.
