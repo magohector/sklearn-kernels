@@ -8,7 +8,7 @@ setup(
     description='A random test lib',
     author='Mora Hector',
     author_email='hector.mora@gmail.com',
-    url='https://github.com/magohector/sklearn-kernels/tree/master/sklearn-kernels', 
+    url='https://github.com/magohector/sklearn-kernels/tree/master/sklearnkernels', 
     download_url='https://github.com/magohector/sklearn-kernels/archive/v0.1.tar.gz', 
     keywords='ANN, SVM, Kernels', 
     classifiers=['Programming Language :: Python',  
