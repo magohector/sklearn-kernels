@@ -40,8 +40,8 @@ Example of usage:
 
 
 ```python
-from KSVM import KSVC, KSVR
-from KANN import KANNC,KANNR
+from sklearnkernels.KSVM import KSVC, KSVR
+from sklearnkernels.KANN import KANNC,KANNR
 ```
 
 
