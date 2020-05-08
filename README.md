@@ -1,6 +1,6 @@
 <h1>sklearnkernels</h1>
 
-<b>sklearn-kernels:</b> extend functionality SVM and ANN classification and regression implementation <br/>
+<b>sklearnkernels:</b> extend functionality SVM and ANN classification and regression implementation <br/>
 with alternative kernels proposed by Belanche.
 
 the kernel hyperparameter manage is similar to SVM kernel parameter of sklearn library and could be some<br/>
@@ -23,7 +23,7 @@ member in brackets of  next list
 
 To install the library use pip:
 
-    pip install sklearn-kernels
+    pip install sklearnkernels
 
 
 or clone the repo and just type the following on your shell:
